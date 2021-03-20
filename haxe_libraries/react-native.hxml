@@ -1,0 +1,4 @@
+# @install: lix --silent download "gh://github.com/haxe-react/react-native#19b078d63c4d598688c8c5563c8841d9375b4f97" into react-native/0.2.1/github/19b078d63c4d598688c8c5563c8841d9375b4f97
+-lib react-next
+-cp ${HAXE_LIBCACHE}/react-native/0.2.1/github/19b078d63c4d598688c8c5563c8841d9375b4f97/src
+-D react-native=0.2.1

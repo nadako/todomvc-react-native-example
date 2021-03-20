@@ -1,0 +1,6 @@
+--class-path src
+--js main.js
+--define js-es=6
+--debug
+--library coconut.react-native
+Main
